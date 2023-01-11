@@ -1,3 +1,3 @@
 module github.com/xzturn/cmd
 
-go 1.18
+go 1.19
